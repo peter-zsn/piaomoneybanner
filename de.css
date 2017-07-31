@@ -1,0 +1,70 @@
+*{
+    /*padding: 0;*/
+    /*margin: 0;*/
+    font-family: "微软雅黑";
+}
+
+body{
+    background-color: black;
+}
+
+.banner{
+    position: absolute;
+    top: 50%;
+    left: 15%;
+}
+
+.ig{
+    position: absolute;
+}
+
+.ig img{
+    width: 600px;
+    height: 400px;
+}
+
+.btn{
+    position: absolute;
+    height: 50px;
+    width: 25px;
+    background: rgba(0,0,0,5);
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    top: 175px;
+}
+
+.btn2{
+    left: 575px;
+}
+
+.tabs{
+    position: absolute;
+    width: 400px;
+    top: 350px;
+    left: 200px;
+}
+
+.tab{
+    width: 30px;
+    height: 30px;
+    background-color: #5388e8;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+    color: #ffffff;
+    margin-right: 20px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.bg{
+    background-color: red;
+}
+
+.money{
+    width: 600px;
+    height: 430px;
+}
+
